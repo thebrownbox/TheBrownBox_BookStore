@@ -1,4 +1,4 @@
-# The Brown Box's Book Store
+# The Brown Box's Bookstore
 ~ Where you find your companion in the learning journey ~
 
 Book Data Sites:
